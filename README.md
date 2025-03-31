@@ -1,0 +1,1 @@
+A small package to load JSON Discord chat exports from https://github.com/Tyrrrz/DiscordChatExporter into langchain.

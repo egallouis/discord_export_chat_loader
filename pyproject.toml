@@ -1,0 +1,25 @@
+[project]
+name = "discord-export-chat-loader"
+version = "0.1.0"
+description = "A small package to load discord chat exports into langchain."
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.22",
+]
+license = "MIT"
+license-files = ["LICEN[CS]E*"]
+readme = "README.md"
+
+[project.optional-dependencies]
+build = [
+    "build>=1.2.2.post1",
+    "pytest>=8.3.5",
+]
+
+[project.urls]
+Homepage = "https://github.com/pypa/sampleproject"
+Issues = "https://github.com/pypa/sampleproject/issues"
+
+[build-system]
+requires = ["hatchling >= 1.27.0"]
+build-backend = "hatchling.build"
