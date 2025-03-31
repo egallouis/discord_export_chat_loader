@@ -17,8 +17,8 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/egallouis/discord_export_chat_loader"
+Issues = "https://github.com/egallouis/discord_export_chat_loader/issues"
 
 [build-system]
 requires = ["hatchling >= 1.27.0"]
