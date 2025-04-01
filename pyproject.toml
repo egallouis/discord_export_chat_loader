@@ -1,5 +1,5 @@
 [project]
-name = "discord-export-chat-loader"
+name = "lc-discord-export-loader"
 version = "0.1.0"
 description = "A small package to load discord chat exports into langchain."
 requires-python = ">=3.12"
@@ -17,8 +17,8 @@ build = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/egallouis/discord_export_chat_loader"
-Issues = "https://github.com/egallouis/discord_export_chat_loader/issues"
+Homepage = "https://github.com/egallouis/lc_discord_export_loader"
+Issues = "https://github.com/egallouis/lc_discord_export_loader/issues"
 
 [build-system]
 requires = ["hatchling >= 1.27.0"]
